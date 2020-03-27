@@ -14,6 +14,8 @@
 		BD4DA2D2242E091D00C2E63C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD4DA2D1242E091D00C2E63C /* Assets.xcassets */; };
 		BD4DA2D5242E091D00C2E63C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD4DA2D3242E091D00C2E63C /* LaunchScreen.storyboard */; };
 		BD4DA2D8242E091D00C2E63C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BD4DA2D7242E091D00C2E63C /* main.m */; };
+		BD4DA2E0242E0AF100C2E63C /* night.pdf in Resources */ = {isa = PBXBuildFile; fileRef = BD4DA2DE242E0AF100C2E63C /* night.pdf */; };
+		BD4DA2E1242E0AF100C2E63C /* day.pdf in Resources */ = {isa = PBXBuildFile; fileRef = BD4DA2DF242E0AF100C2E63C /* day.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		BD4DA2D4242E091D00C2E63C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD4DA2D6242E091D00C2E63C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD4DA2D7242E091D00C2E63C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BD4DA2DE242E0AF100C2E63C /* night.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = night.pdf; sourceTree = "<group>"; };
+		BD4DA2DF242E0AF100C2E63C /* day.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = day.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				BD4DA2CC242E091A00C2E63C /* ViewController.m */,
 				BD4DA2CE242E091A00C2E63C /* Main.storyboard */,
 				BD4DA2D1242E091D00C2E63C /* Assets.xcassets */,
+				BD4DA2DF242E0AF100C2E63C /* day.pdf */,
+				BD4DA2DE242E0AF100C2E63C /* night.pdf */,
 				BD4DA2D3242E091D00C2E63C /* LaunchScreen.storyboard */,
 				BD4DA2D6242E091D00C2E63C /* Info.plist */,
 				BD4DA2D7242E091D00C2E63C /* main.m */,
@@ -135,7 +141,9 @@
 			files = (
 				BD4DA2D5242E091D00C2E63C /* LaunchScreen.storyboard in Resources */,
 				BD4DA2D2242E091D00C2E63C /* Assets.xcassets in Resources */,
+				BD4DA2E1242E0AF100C2E63C /* day.pdf in Resources */,
 				BD4DA2D0242E091A00C2E63C /* Main.storyboard in Resources */,
+				BD4DA2E0242E0AF100C2E63C /* night.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
